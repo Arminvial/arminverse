@@ -99,11 +99,11 @@ export default function ResumePage() {
           </h2>
           <ul className="space-y-2 text-zinc-300">
             <li>
-              <b>Front-End Developer and Suppor</b> – ipinit
+              <b>Front-End Developer and Support</b> – ipinit
               (2025)
             </li>
             <li>
-              <b>Front-End Developer and Suppor</b> – iranarmaghan
+              <b>Front-End Developer and Support</b> – iranarmaghan
               (2025)
             </li>
 
